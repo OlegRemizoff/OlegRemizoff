@@ -10,7 +10,7 @@
 - :telescope: I’m currently working on my pet-project
 - :open_book: Learning: ![Python Badge](https://img.shields.io/badge/-Python-yellow?style=flat-circle&amp;logo=Python)&#160;![Go Badge](https://img.shields.io/badge/-Go-blue?style=flat-circle&;logo=Go)
 - :speech_balloon: Ask me about anything, I am happy to help
-- :zap: Fan fact Cats :cat: sleep for more than half of their lives.
+- :zap: For my programming projects, I usually only upload to Github once I make significant progress
 ____
 
 
