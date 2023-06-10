@@ -4,7 +4,7 @@
 [![Resume Badge](https://img.shields.io/badge/Resume-000?style=flat&logo=internetexplorer&link=https://olegremizoff.github.io/)](https://olegremizoff.github.io/)
 [![Telegram Badge](https://img.shields.io/badge/-rem1zoff_oleg-blue?style=social&logo=telegram&link=https://t.me/rem1zoff_oleg)](https://t.me/rem1zoff_oleg) <p align='left'>
 
-- :hammer_and_wrench: I'm a self-taught BackEnd developer from Russia :ru:
+- :hammer_and_wrench: I'm a self-taught Back-End developer from Russia :ru:
 - :muscle: I like to write code
 - :spiral_notepad: I am constantly learning new things
 - :telescope: I’m currently working on my pet-project
