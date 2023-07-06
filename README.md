@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Oleg
 
 [![Mail Badge](https://img.shields.io/badge/-job.rem1zoff@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:job.rem1zoff@gmail.com)
-[![Resume Badge](https://img.shields.io/badge/Resume-000?style=flat&logo=internetexplorer&link=https://olegremizoff.github.io/)](https://olegremizoff.github.io/)
+[![Resume Badge](https://img.shields.io/badge/Resume-000?style=flat&logo=internetexplorer&link=https://olegremizoff.github.io/)](http://olegremizoff.pythonanywhere.com/)
 [![Telegram Badge](https://img.shields.io/badge/-rem1zoff_oleg-blue?style=social&logo=telegram&link=https://t.me/rem1zoff_oleg)](https://t.me/rem1zoff_oleg) <p align='left'>
 
 - :hammer_and_wrench: I'm a self-taught Back-End developer from Russia :ru:
