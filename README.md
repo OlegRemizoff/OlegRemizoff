@@ -17,4 +17,4 @@ ____
 [![Github stats](https://github-readme-stats.vercel.app/api?username=OlegRemizoff&show_icons=true&include_all_commits=true)](https://github.com/OlegRemizoff/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegRemizoff&layout=compact)](https://github.com/OlegRemizoff/github-readme-stats)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegRemizoff)](https://github.com/anuraghazra/github-readme-stats)
